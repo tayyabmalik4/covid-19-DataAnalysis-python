@@ -13,7 +13,7 @@ df=pd.read_csv('datasets\\covid19_italy_region.csv')
 # print(df)
 
 # ////for checking the first few rows of csv file we use head function
-# print(df.head())
+print(df.head())
 
 # ////for checking the below few rows of csv file we use tail function
 # print(df.tail())
